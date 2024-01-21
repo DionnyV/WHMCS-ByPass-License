@@ -2,7 +2,7 @@
 
 I am pleased to share the result of my recent complete update project for the License.php file in WHMCS. Although it was a challenge, I enjoyed every moment dedicated to researching and simplifying the solution. Over the years, I have contributed significantly to this community, and despite my attempts to report this issue to WHMCS, the response was not positive. For this reason, I decided to share this solution with those who wish to use this incredible software for their projects
 
-
+![Force Check](https://github.com/k4t3pr0/WHMCS-ByPass-License/blob/main/img/force_license.png?raw=true)
 
 How does it work? Simply replace the License.php file in the location of your WHMCS installation, either before or after installing the software. The path is:
 
@@ -25,3 +25,4 @@ When you finish installing your license file, you must force the update of your 
 ```
 "whmcs_path/admin/help/license"
 ```
+![Check Update](https://github.com/k4t3pr0/WHMCS-ByPass-License/blob/main/img/update_check.png?raw=true)
